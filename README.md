@@ -1,5 +1,5 @@
 # Chaos Arcade Game
-##Summary
+## Summary
 
 Description
 The game has two characters a girl and a boy you will choose one the other will become your enemy.the character has its health bar consists of three lives there are potions in case you lose 1 live the game has many sounds 1 throughout the game the other when you collect a coin you can turn off the sound from options.
