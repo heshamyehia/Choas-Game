@@ -9,7 +9,7 @@ Second level HARD this is a bit more advanced than the first 1. Your character w
 Structured Programming C++
 SFML library to build the game enviroment and collision and animation
 
-##the full gameplay:
+## the full gameplay:
 https://www.linkedin.com/posts/hesham-yehia-7236b822a_team-project-programming-activity-6950074189143781376-sthR?utm_source=share&utm_medium=member_desktop
 
 
